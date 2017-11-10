@@ -1,0 +1,11 @@
+# basic options
+title: Family Project
+author: Jim bean
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  maxabbott
+
+# Build settings
+markdown: kramdown
+theme: minima
