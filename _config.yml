@@ -8,4 +8,4 @@ github_username:  maxabbott
 
 # Build settings
 markdown: kramdown
-theme: leap day
+theme: hacker
